@@ -1,27 +1,43 @@
-Logistics Analytics Dashboard | Power BI Project
+Logistics Analytics Dashboard
 
-I’m pleased to share my latest project where I built an end-to-end Logistics Performance Dashboard using Power BI, SQL, and data analytics concepts.
+Project Overview
 
-Key Insights:
-• Identified low-performing cities such as Ahmedabad and Lucknow impacting profitability
-• Found that low-margin products (T-Shirts, Jeans) contribute minimal profit
-• Air transport incurs the highest cost, reducing overall efficiency
-• Supplier performance varies significantly, highlighting optimization opportunities
-• High damage rate (~18%) negatively affects overall profit
+This project focuses on analyzing logistics operations using Power BI to identify key factors affecting profitability, delivery performance, and operational efficiency.
 
-Dashboard Highlights:
-• Profit Analysis across City, Product, and Supplier
-• Transport Mode Performance
-• Cost and Distance Analysis
-• Supplier Contribution and Delivery Performance
-• KPI Tracking (Profit, Damage Rate, Delay Rate)
+Objectives
 
-Outcome:
-This project demonstrates how data can be used to identify inefficiencies in logistics operations and support better decision-making.
+* Analyze profit across cities, products, and suppliers
+* Identify low-performing areas impacting business
+* Evaluate transport mode efficiency and cost
+* Track damage and delay rates
 
-Tools Used:
-Power BI | SQL | Excel | Data Analytics
+Key Insights
 
-I would appreciate your feedback and suggestions.
+* Delhi is the top-performing city, while Ahmedabad and Lucknow show lower profitability
+* Low-margin products like T-Shirts and Jeans contribute less to profit
+* Air transport has the highest cost per KM, reducing margins
+* Supplier performance varies, with opportunities for optimization
+* Damage rate (~18%) impacts overall profitability
 
-#PowerBI #DataAnalytics #BusinessIntelligence #SQL #Dashboard #Logistics
+Dashboard Features
+
+* City-wise Profit Analysis
+* Product Performance Analysis
+* Supplier Contribution and Performance
+* Transport Mode Analysis
+* KPI Metrics (Profit, Damage Rate, Delay Rate)
+
+Tools and Technologies
+
+* Power BI
+* SQL
+* Excel
+* Data Cleaning and Analysis
+
+Conclusion
+
+The dashboard provides actionable insights to improve logistics efficiency, reduce costs, and enhance profitability through data-driven decision-making.
+
+Dashboard Preview
+
+(Add your screenshots here)
